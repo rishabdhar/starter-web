@@ -7,6 +7,9 @@ what is the purpose and intro
 what do these do?
 
 ## synopsis
-summary end
+
 
 ## end of document
+ending remarks
+
+# more info next doc1
